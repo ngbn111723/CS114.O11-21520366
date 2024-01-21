@@ -64,7 +64,7 @@ Trên một bìa sách có thể bao gồm rất nhiều kí tự chữ viết, 
 - Số lượng phần tử trong bộ dữ liệu bao gồm 5046 phần tử là các đặc trưng được rút trích từ 700 ảnh bìa sách tiếng Việt hoặc sách tiếng Anh.
 - Nguồn thu thập dữ liệu: từ cá nhân, các thư viện các trường học, các nguồn công khai khác... 
 - Các thao tác tiền xử lý (dự kiến): có thể chuyển sang định dạng trắng đen giúp giảm nhiễu là làm cho văn bản trên ảnh trở nên rõ ràng hơn.
-- Số lượng phần tử trong tập train và test sẽ lần lượt theo tỉ lệ 90% và 10%.
+- Số lượng phần tử trong tập train và test sẽ lần lượt theo tỉ lệ 75% và 25%.
 - Trong phạm vi đề tài sẽ chỉ tập trung vào sách, các loại văn bản gần giống sách (báo và tạp chí không được đưa vào do trang bìa của báo và tạp chí có thể bao gồm nhiều tiêu đề, hình ảnh yêu cầu kĩ thuật cao hơn).
 ![Một phần của dataset](https://drive.google.com/uc?export=view&id=1K8kFzMt7Rq_WLAiOv93EkhTNxAUdgXPI)
 ### Pipeline và Model
