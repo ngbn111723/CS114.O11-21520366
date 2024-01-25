@@ -5,7 +5,7 @@
 
 
 ## Sinh viên thực hiện
-Nhóm sinh viên trường Đại học Công nghệ Thông tin - Đại học Quốc gia TP.HCM :
+Nhóm sinh viên trường Đại học Công nghệ Thông tin Đại học Quốc gia-TP.HCM :
 - [Nguyễn Gia Bảo Ngọc – 21520366](https://github.com/ngbn111723)
 - [Nguyễn Quốc Trường An – 21521810](https://github.com/nqtan1810)
 - [Nguyễn Đức Tú – 21521612](https://github.com/Tund272)
